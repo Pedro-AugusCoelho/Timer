@@ -1,6 +1,6 @@
 <div align='center'>
-  <img height='400px' alt='Readme' title='Readme' src='./src/assets/ImgShow1.png'>
-  <img height='400px' alt='Readme' title='Readme' src='./src/assets/ImgShow2.png'>
+  <img height='250px' alt='Readme' title='Readme' src='./src/assets/ImgShow1.png'>
+  <img height='250px' alt='Readme' title='Readme' src='./src/assets/ImgShow2.png'>
 </div>
 
 # Sobre o projeto 💬
